@@ -9,8 +9,8 @@ const displayMessage = function (message) {
 };
 
 // Sound Effects
-let loseSound = new Audio('dead-8bit-41400.mp3');
-let succesSound = new Audio('8-bit-powerup-6768.mp3');
+let loseSound = new Audio('audios/dead-8bit-41400.mp3');
+let succesSound = new Audio('audios/8-bit-powerup-6768.mp3');
 
 let secretNumber = getRandom();
 let score = 20;
