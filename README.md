@@ -2,7 +2,7 @@
 
 A simple guessing game with a beautiful retro design created with HTML,CSS and Javascript.
 
-## Deme
+## Demo
 [View Demo](https://mahmoudzaytoni.github.io/guess-my-number/)
 
 ## Screenshots
